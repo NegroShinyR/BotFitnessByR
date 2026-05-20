@@ -1,0 +1,21 @@
+# ENV
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Base de datos
+*.db
+
+# Modelos
+*.pkl
+
+# VSCode
+.vscode/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
